@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Jesse Bjorkman",
+    "title": "",
+    "position": "District D",
+    "party": "Republican",
+    "address": "Kenai AK, 99611 | District: D",
+    "phone": "907-283-7996",
+    "email": "example@akleg.gov",
+    "url": "https://akleg.gov/...",
+    "otherinfo": {
+      "toll_free": "800-964-5733",
+      "fax": "..."
+    }
+  },
+  {
+    "name": "Matt Claman",
+    ...
+  }
+]
